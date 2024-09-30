@@ -21,7 +21,7 @@ export default hopeTheme({
   docsDir: "src",
 
   blog: {
-    avatar: "/head.jpg",
+    // avatar: "/head.jpg",
     name: "QBY",
     // description:"PhD candidate in Remote Sensing and GIS",
     medias: {
