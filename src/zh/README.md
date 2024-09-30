@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://i.postimg.cc/50y0V41n/head.png
+heroImage: https://i.postimg.cc/5yP1bBvS/head-mini.jpg
 bgImage: /background.jpg
 heroText: QBY
 heroFullScreen: true
