@@ -3,9 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: https://i.postimg.cc/Zn2QBttp/logo.png
-# heroImage: /head.png
-bgImage: /background.jpg
+heroImage: https://i.postimg.cc/50y0V41n/head.png
+bgImage: https://i.postimg.cc/L8VL4sKp/background.jpg
 heroText: QBY
 tagline: Renowned is a mountain not for its height but for the immortal who lives in it.  
 heroFullScreen: true
