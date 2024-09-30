@@ -1,2 +1,0 @@
-# blog
-QBY的blog
