@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://i.postimg.cc/50y0V41n/head.png",
+  logo: "https://qby-1330074694.cos.ap-nanjing.myqcloud.com/images/head_mini.png",
 
   repo: "qby702301/blog",
   repoDisplay: false,

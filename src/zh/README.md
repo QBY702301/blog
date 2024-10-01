@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://i.postimg.cc/50y0V41n/head.png
-bgImage: https://i.postimg.cc/L8VL4sKp/background.jpg
+heroImage: https://qby-1330074694.cos.ap-nanjing.myqcloud.com/images/head_mini.png
+bgImage: https://qby-1330074694.cos.ap-nanjing.myqcloud.com/images/background.jpg
 heroText: QBY
 heroFullScreen: true
 tagline: 山不在高，有仙则名。水不在深，有龙则灵。

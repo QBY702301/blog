@@ -117,9 +117,9 @@ const MyComponent = defineComponent({
 - 一个卡片:
 
   ```component VPCard
-  title: Mr.Hope
+  title: QBY
   desc: Where there is light, there is hope
-  logo: https://mister-hope.com/logo.svg
-  link: https://mister-hope.com
+  logo: https://qby-1330074694.cos.ap-nanjing.myqcloud.com/images/head_mini.png
+  link: https://qby702301.github.io/blog/
   background: rgba(253, 230, 138, 0.15)
   ```
