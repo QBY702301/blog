@@ -138,9 +138,9 @@ export default hopeTheme({
 
     // These features are enabled for demo, only preserve features you need here
     markdownImage: {
-      figure: true,
-      lazyload: true,
-      size: true,
+      figure: false,
+      lazyload: false,
+      size: false,
     },
 
     // markdownMath: {

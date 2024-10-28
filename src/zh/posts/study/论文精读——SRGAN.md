@@ -15,10 +15,8 @@ https://arxiv.org/pdf/1609.04802
 2. 引入新的图像评价指标——利用VGG提取超分/原始图像特征，对这些特征进行比较
 3. 综合了GAN（判别器）+ 指标图像评价指标提出新的损失函数
 4. MOS测试——并不简单基于MSE评价图像质量，更多考虑肉眼感知质量
-
 ## Abstract
 ![20241028104009](https://qby-1330074694.cos.ap-nanjing.myqcloud.com/images/20241028104009.png)
-
 ## 1. Introduction
 ![20241028104054](https://qby-1330074694.cos.ap-nanjing.myqcloud.com/images/20241028104054.png)
 PSNR高不代表肉眼感知质量更高，其余略
