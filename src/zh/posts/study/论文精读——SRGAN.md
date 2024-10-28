@@ -9,7 +9,7 @@ tag:
 ---
 
 # 论文精读——SRGAN
-https://arxiv.org/pdf/1609.04802
+.[SRGAN](https://arxiv.org/pdf/1609.04802)
 ## 引入
 1. 在图像超分引入GAN网络
 2. 引入新的图像评价指标——利用VGG提取超分/原始图像特征，对这些特征进行比较
